@@ -1,1 +1,2 @@
 # Sales-Dashboard-EXCEL
+I am happy to tell you that i have created a sales dashboard on EXCEL and analysis the data. In this process i have done data cleaning, filtering & sorting, removing duplicate. Through this dashboard profit over year and year, count of customers, Top states on sales, monthly sales. With help of this dashboard we can improve our sales, focus on states which have maximum sales as well as on phone category because it is best selling, Therefore 2017 is best year beacuse it has most customer in this year.
